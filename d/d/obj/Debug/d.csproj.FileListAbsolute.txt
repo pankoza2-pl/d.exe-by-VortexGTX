@@ -1,0 +1,23 @@
+D:\2019\d\d\bin\Debug\d.exe.config
+D:\2019\d\d\bin\Debug\d.exe
+D:\2019\d\d\bin\Debug\d.pdb
+D:\2019\d\d\obj\Debug\d.warring.resources
+D:\2019\d\d\obj\Debug\d.Virus.resources
+D:\2019\d\d\obj\Debug\d.Properties.Resources.resources
+D:\2019\d\d\obj\Debug\d.csproj.GenerateResource.cache
+D:\2019\d\d\obj\Debug\d.csproj.CoreCompileInputs.cache
+D:\2019\d\d\obj\Debug\d.exe
+D:\2019\d\d\obj\Debug\d.pdb
+D:\2019\d\d\obj\Debug\d.csproj.AssemblyReference.cache
+D:\Visual  Studio Projects\2019\d\d\bin\Debug\d.exe.config
+D:\Visual  Studio Projects\2019\d\d\bin\Debug\d.exe
+D:\Visual  Studio Projects\2019\d\d\bin\Debug\d.pdb
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.warring.resources
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.Virus.resources
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.Properties.Resources.resources
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.csproj.GenerateResource.cache
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.csproj.CoreCompileInputs.cache
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.exe
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.pdb
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.csproj.AssemblyReference.cache
+D:\Visual  Studio Projects\2019\d\d\obj\Debug\d.Form2.resources

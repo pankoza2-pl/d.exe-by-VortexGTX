@@ -1,0 +1,12 @@
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\bin\Release\d.exe.config
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\bin\Release\d.exe
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\bin\Release\d.pdb
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.csproj.AssemblyReference.cache
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.warring.resources
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.Form2.resources
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.Virus.resources
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.Properties.Resources.resources
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.csproj.GenerateResource.cache
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.csproj.CoreCompileInputs.cache
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.exe
+C:\Users\Zer0 Mem0ry\Desktop\d_3-1\d\d\obj\Release\d.pdb
